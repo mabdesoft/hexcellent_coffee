@@ -1,5 +1,5 @@
 ###
- * Copyright 2011 Matthew Delaney
+ * Copyright 2013-2018 Matthew Delaney
  * 
  * This file is part of Hexcellent.
  *
@@ -16,11 +16,12 @@
  * You should have received a copy of the GNU General Public License
  * along with Hexcellent.  If not, see <http://www.gnu.org/licenses/>.
  * 
- * Filename: Hexcellent.js
+ * Filename: Hexcellent.coffee
  * Purpose : A drawable hexagonal grid with point location (e.g. which cell is the point (u, v) in?)
- * Date    : 31/7/2011
+ * Date    : 19/3/2018
  * @author Matthew Delaney
 ###
+
 class window.Hexcellent
     constructor: (aCellSize, aWidth, aHeight, aLeft, aTop) ->
         @grid = new Array()
