@@ -1,5 +1,5 @@
 ###
-Copyright 2011-2018 Matthew Delaney
+Copyright 2013-2018 Matthew Delaney
   
    This file is part of Hexcellent.
  
